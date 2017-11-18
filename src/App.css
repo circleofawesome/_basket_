@@ -1,0 +1,44 @@
+body{
+  background-color:green;
+}
+.forms{
+  background-color:red;
+  text-align:center;
+}
+#item-name{
+  margin-top:50px;
+}
+#item-name, #item-number, #item-cost{
+  margin-bottom:10px;
+}
+
+.list{
+  background-color:green;
+  color:white;
+}
+
+li{
+  list-style:none;
+  margin-bottom:20px;
+}
+
+.remove-button{
+  float:right;
+  color:black;
+  background-color:yellow;
+  border-style:solid;
+  border-radius:0px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.add-button{
+  color:black;
+  background-color:yellow;
+  border-style:solid;
+  border-radius:0px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.totalCost{
+  margin-top:50px;
+}
